@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1735261381 source:d:\tugas aka\iteratif\main.cpp
+	<iostream>
+	"tiling_iterative.h"
+
+1735260497 d:\tugas aka\iteratif\tiling_iterative.h
+	<vector>
+	<iostream>
+	<chrono>
+	<thread>
+
+1735263116 source:d:\tugas aka\iteratif\tiling_iterative.cpp
+	"tiling_iterative.h"
+

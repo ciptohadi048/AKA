@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735259975 source:d:\tugas aka\rekursif\tiling_recursive.cpp
+	"tiling_recursive.h"
+
+1735261134 d:\tugas aka\rekursif\tiling_recursive.h
+	<vector>
+	<iostream>
+	<chrono>
+
+1735243927 source:d:\tugas aka\rekursif\main.cpp
+	<iostream>
+	"tiling_recursive.h"
+
